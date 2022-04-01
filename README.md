@@ -9,7 +9,7 @@
 
 #### Comands:
 
-#### OBS.: Não consegui subir a pasta data
+#### OBS.: Não consegui subir a pasta data, portanto, será necessário criá-la
 
 1 - use cinema
 
